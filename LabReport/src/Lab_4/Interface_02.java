@@ -1,3 +1,4 @@
+package Lab_4;
 
 interface MyInterface
 {
@@ -12,7 +13,7 @@ public class Interface_02 implements MyInterface {
 	   
 	   public void method1()
 	   {
-		System.out.println("My name is Sadia");
+		System.out.println("My name is Tania");
 	   }
 	   public void method2()
 	   {
